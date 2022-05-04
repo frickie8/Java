@@ -1,0 +1,4 @@
+The file data1.txt has
+76 Characters
+16 Words
+3 Lines
